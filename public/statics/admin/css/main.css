@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+
+body{margin:0;}
+.main_center{width:100%;border:1px solid red;min-height:500px;top:0;}
